@@ -45,6 +45,7 @@ class Aircraft:
 # f = Flight("CB060")
 # print(f.number())
 # print(f.airline())
+# test
 
 a = Aircraft("G-EUPT", "Airbus A320", num_rows=22, num_seats_per_row=6)
 print(a.seating_plan())
